@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://github.com/CHVong/CHVong/assets/84001929/55e48f52-3b0e-4e93-bdfd-0a894d87c5bd" alt="Columnar Jointing GIF"/>
+  <img width="50%" height="200" src="https://github.com/CHVong/CHVong/assets/84001929/55e48f52-3b0e-4e93-bdfd-0a894d87c5bd" alt="Columnar Jointing GIF"/>
 </div>
 
 
