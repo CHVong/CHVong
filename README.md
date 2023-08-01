@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">My name is Cuong, and I am a full-stack software engineer and geologist, currently residing in Orange County, CA.<br>Feel free to look around at the projects I have here on Github.<br><br>For more Info, you can visit my site: https://cvong.vercel.app</p>
+<p align="left">My name is Cuong, a full-stack software engineer and geologist currently based in Orange County, CA.<br>Feel free to look around at the projects I have here on Github.<br><br>For more Info, you can visit my site: https://cvong.vercel.app</p>
 
 ###
 
