@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="200" src="https://github.com/CHVong/CHVong/assets/84001929/cd887b6b-e4f5-4190-a0d2-1d9c41db8037" alt="Mountains GIF"/>
+  <img height="250" src="https://github.com/CHVong/CHVong/assets/84001929/55e48f52-3b0e-4e93-bdfd-0a894d87c5bd" alt="Columnar Jointing GIF"/>
 </div>
+
 
 ###
 
